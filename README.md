@@ -5,7 +5,7 @@ Este projeto é um exercício prático de desenvolvimento mobile, realizado como
 ## 🚀 Tecnologias Utilizadas
 
 * [Flutter](https://flutter.dev/)
-* [Dart](https://dart.dev/)([giters.com][1])
+* [Dart](https://dart.dev/)
 
 ## 📱 Funcionalidades
 
